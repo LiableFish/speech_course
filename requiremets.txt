@@ -15,3 +15,7 @@ encodec
 tensorboard
 tensorboardX
 jupyterlab
+pandas
+ipywidgets
+seaborn
+torch-summary
